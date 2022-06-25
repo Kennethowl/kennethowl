@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ## Kennethowl
 
-<img width="82" alt="Recurso 1estilo" src="https://user-images.githubusercontent.com/71115590/175790833-cfb1db43-9b83-4366-a040-026756823f86.png">
+<img width="281" alt="Recurso 8estilo" src="https://user-images.githubusercontent.com/71115590/175790996-d0864f1c-c610-4ef4-8a09-ccf826798a56.png">
 
 ## My Personal Blog very soon 
