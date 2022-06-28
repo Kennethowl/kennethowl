@@ -43,7 +43,10 @@ Abobe Suite: Bueno en primer lugar la más común y de las más conocidas, no me
 * ***Corel Draw:*** Corel gracias a su trayectoria, versatilidad, y gran capacidad es perfecto para realizar diversos tipos de diseño, al igual que la primera, es una de las más conocidas y que no puede faltar aquí.
 
 * ***Photopea:*** Tu PC no cuenta con la capacidad de tener adobe, sabemos que Photoshop es muy importante y eficaz. Pero el día de hoy te traigo una alternativa igual de efectiva solo que en la web. Claro no tendrá la misma calidad que el primero, pero sin embargo te deja buenos resultados si estas en etapas iniciales o solo deseas salir de un apuro. Soporta desde extensiones psd, ai, xd, skecth, pdf o raw. Por lo cual es una herramienta a la que debes echarle un ojo.
+
+```
 https://www.photopea.com/
+```
 
 * ***Figma:*** Este sin duda es una potencia, figma tiene la capacidad de crear diseños de páginas web para luego ser programadas, te invito des un vistazo a esta herramienta, es factible y muy versátil. Tiene una gran gama de herramientas que te ayudaran en la implementación de diseños para publicidad o páginas web. Créeme no te vas arrepentir, te dejo el link de su página de inicio y unos cursos que sin duda te ayudaran a conocer la herramienta.
 
@@ -66,7 +69,9 @@ https://www.youtube.com/watch?v=fo_DxyXrLKE&list=PLc_Na94vlIOlqRIcnkOsTfqcrvnDPP
 Ahora de aquí en adelante te presentare otras herramientas de las cuales puedes sacar platillas o iconos para tus creaciones, te las enumero para que le des una revisada, te gustaran, veras la creatividad que tenemos nosotros los seres humanos.
 
 ### FreePik
+```
 https://www.freepik.com/
+```
 
 ### VistaCreate
 ```
@@ -78,12 +83,12 @@ https://create.vista.com/es/home/
 https://www.canva.com/q/pro/
 ```
 
-###Font Awesome
+### Font Awesome
 ```
 https://fontawesome.com/search?s=solid%2Cbrands
 ```
 
-###Flaticon
+### Flaticon
 ```
 https://www.flaticon.es/
 ```
