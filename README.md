@@ -1,21 +1,75 @@
 ### Hello There, I'm Kenneth Flores 👋
 
+I hope to your visit here will excellent for you
 
+## Experiencia
 
-<!--
-**Kennethowl/kennethowl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 2025 Corporación Lancasco - Soporte Infraestructura - Técnico
 
-Here are some ideas to get you started:
+Tareas Realizadas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Soporte Preventivo a equipos corporativos
+* Preparación de equipos
+* Revisión preventiva de rack principal de oficina
+* Implementación de Service Desk Plus
+* Restablecimiento de Contraseñas en entorno de Google Workspace
+* Soporte preventivo impresoras
+
+Herramientas
+
+* Service Desk Plus Cloud
+* Google Workspace
+* Microsoft 365
+* Sistemas propios
+* Remote Access Plus
+
+### Dic, 2023 - Abr, 2025 Grupo Elcatex - Soporte Técnico Junior
+
+Tareas Realizadas
+
+* Soporte de casos AS400
+* Soporte de Impresoras térmicas e impresoras láser
+* Soporte de casos L1
+* Escalamiento de gestiones de tipo L2 a L3
+* Gestión de Tickets en Service Desk
+* Soporte de casos NOW
+* Active Directory (Gestión de permisos y restablecimiento de contraseñas)
+* Soporte Microsoft 365
+* Despliegue de parches
+* Gestión de casos en sevidores especfícos
+* Consultas básicas de SQL en AS400
+
+Herramientas
+
+* AS400
+* NOW
+* Active Directory
+* Endpoint Central
+* Dameware
+* Microsoft 365
+* Sevice Desk Plus on Premise
+* Remote Desktop
+* SQL
+
+### Oct, 2022 - Nov, 2023 Municipalidad de San Pedro Sula - Diseño y Administrador de Base de Datos
+
+Tareas Realizadas
+
+* Limpieza de Datos
+* Diseño de Base de Datos
+* Scripts de Base de Datos
+
+Herramientas
+
+* MySQL
+* Heroku
+* Excel
+
+## Proyectos
+
+### Diseño de Base de Datos en Municipalidad de San Pedro Sula
+
+[Ver diseño](https://dbdiagram.io/d/C3I_PORTAL_ESTADISTICO-63fc396b296d97641d83e630)
 
 ## Kennethowl
 
