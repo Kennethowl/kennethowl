@@ -69,7 +69,23 @@ Herramientas
 
 ### Diseño de Base de Datos en Municipalidad de San Pedro Sula
 
+Diseño y Creación de una base de datos con diversos datasets de fuentes estadísticas para generar una base de conocimientos a la población en general.
+
 [Ver diseño](https://dbdiagram.io/d/C3I_PORTAL_ESTADISTICO-63fc396b296d97641d83e630)
+
+### Imágen Corporativa de Empresas en las que he laborado
+
+#### Corporación Lancasco
+
+![corporacionlancasco_logo](https://github.com/user-attachments/assets/b381b123-93ba-4547-8542-d5a423465b14)
+
+#### Grupo Elcatex
+
+![grupoelcatex_logo](https://github.com/user-attachments/assets/0d4507a7-abe8-4842-a3f6-716f9efd9013)
+
+#### Municipalidad de San Pedro Sula
+
+![alcalda_municipal_de_san_pedro_sula_logo](https://github.com/user-attachments/assets/420aed51-510d-494f-8ee7-a25977da8fca)
 
 ## Kennethowl
 
